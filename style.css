@@ -1,0 +1,87 @@
+body{
+  
+  background-attachment: fixed;
+}
+div{
+    border-radius: 1em;
+}
+#header{
+    position: relative;
+    z-index: 1;
+    height:120px;
+    width: 100%;
+    margin-bottom: 10px
+}
+#name{
+  float:left;
+	margin-left: 60px;
+	padding-bottom: 10px;
+	font-size: 2em;
+	font-family: Verdana, sans-serif;
+	
+}
+.git{
+  margin-left: 25em;
+}
+.profil{
+  border-radius: 5em;
+}
+#email{
+    float:right;
+    margin-right: 2em;
+	padding-bottom: 1em;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	
+}
+a:hover {
+    font-weight: bold;
+}
+.right{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    
+}
+#footer{
+    height:40px;
+    clear:both;
+    position: relative;
+}
+h3{
+  font-family: Gill Sans, sans-serif;
+  font-style: italic;
+    text-decoration: underline;
+}
+.title{
+ 
+  /*color: #46B3A5;*/
+  color: #E14A4A
+;
+  border-radius: 1em;
+}
+#job-dev {
+    padding: 1px;
+}
+.job-title, #heading{
+    font-weight: bold;
+}
+
+td, th
+{
+    padding: 5px;
+    border: 1px solid black;
+}
+#suppl
+{
+    font-weight:bold;
+}
+#Simplon
+{
+    height: 5px;
+}
+.logo{
+  margin-left: 40em;
+}
